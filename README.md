@@ -18,6 +18,7 @@ Simple Tests of Swift Language (no Objective-C)
 + JSON string
 + Pass data to another viewcontroller
 
+### App Previews
 
 <p align="center" >
 <a href="http://s1282.photobucket.com/user/jigarm_0809/media/RectangleImageTabeview_zps2f5b33f6.png.html" target="_blank"><img src="http://i1282.photobucket.com/albums/a534/jigarm_0809/RectangleImageTabeview_zps2f5b33f6.png" border="0" alt="Rectangle Profile pic Tableview photo RectangleImageTabeview_zps2f5b33f6.png" width="315" height="500"/></a>
