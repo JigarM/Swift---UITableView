@@ -29,11 +29,13 @@ Simple Tests of Swift Language (no Objective-C)
 <a href="http://s1282.photobucket.com/user/jigarm_0809/media/CircularImageTabeview_zps0afb3e25.png.html" target="_blank"><img src="http://i1282.photobucket.com/albums/a534/jigarm_0809/CircularImageTabeview_zps0afb3e25.png" border="0" alt="Circular Profile pic Tableview photo CircularImageTabeview_zps0afb3e25.png" width="315" height="500"/></a>
 </p>
 -------------------------------
-<h1>Require</h1>
+
+# Require
+===============
 OSX 10.9.3 and Xcode 6.x (beta for now)
 
-Swift
----
+# Swift
+============
 
 This project will highlight a few of the core language features about Swift, but I would read through these documents, I found them useful to learn more about Swift and understanding teh structure and syntax of the language:
 
@@ -43,7 +45,12 @@ This project will highlight a few of the core language features about Swift, but
 * [__Swift Language Highlights by Matt Galloway__](http://www.raywenderlich.com/73997/swift-language-highlights)
 
 
-## License
+# Development
+
+* [Jigar Maheshwari](http://twitter.com/jigar0809)
+
+
+# License
 
           The MIT License (MIT)
         
